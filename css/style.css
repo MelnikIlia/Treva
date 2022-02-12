@@ -187,6 +187,25 @@ body.lock {
 	box-sizing: border-box;
 	border-radius: 50%;
 	margin-right: 23px;
+	background-size: 28px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.camera-icon {
+	background-image: url(/img/icons/camera.svg);
+}
+
+.check-icon {
+	background-image: url(/img/icons/check.svg);
+}
+
+.pen-icon {
+	background-image: url(/img/icons/pen.svg);
+}
+
+.user-group-icon {
+	background-image: url(/img/icons/user-group.svg);
 }
 
 .tab__icon > * {
