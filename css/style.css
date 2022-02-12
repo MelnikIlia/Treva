@@ -457,20 +457,25 @@ body.lock {
 	color: #544837;
 }
 
-.social-links > i {
-	margin-right: 15px;
+.social-icons {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	padding-right: 10px;
+	background-position: left;
+	background-repeat: no-repeat;
 }
 
-.fa-facebook-f {
-	color: #4267b2;
+.facebook-icon {
+	background-image: url(/img/icons/facebook.svg);
 }
 
-.fa-twitter {
-	color: #1da1f2;
+.twitter-icon {
+	background-image: url(/img/icons/twitter.svg);
 }
 
-.fa-instagram {
-	color: #df0142;
+.instagram-icon {
+	background-image: url(/img/icons/instagram.svg);
 }
 
 /* ========================= Footer end ========================= */
