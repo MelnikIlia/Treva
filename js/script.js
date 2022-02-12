@@ -49,8 +49,10 @@ window.addEventListener('load', function () {
   });
 
   const switchTabs = (tab) => {
-    tab.closest('.tabs-menu').querySelector('.active').classList.remove('active');
-    tab.parentElement.classList.toggle('active');
+    if (tab.classList.contains('tab__button')) {
+      tab.closest('.tabs-menu').querySelector('.active').classList.remove('active');
+      tab.parentElement.classList.toggle('active');
+    }
   };
 
   tabs.forEach((item) => {
