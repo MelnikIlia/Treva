@@ -193,19 +193,19 @@ body.lock {
 }
 
 .camera-icon {
-	background-image: url(/img/icons/camera.svg);
+	background-image: url(../img/icons/camera.svg);
 }
 
 .check-icon {
-	background-image: url(/img/icons/check.svg);
+	background-image: url(../img/icons/check.svg);
 }
 
 .pen-icon {
-	background-image: url(/img/icons/pen.svg);
+	background-image: url(../img/icons/pen.svg);
 }
 
 .user-group-icon {
-	background-image: url(/img/icons/user-group.svg);
+	background-image: url(../img/icons/user-group.svg);
 }
 
 .tab__icon > * {
@@ -467,15 +467,15 @@ body.lock {
 }
 
 .facebook-icon {
-	background-image: url(/img/icons/facebook.svg);
+	background-image: url(../img/icons/facebook.svg);
 }
 
 .twitter-icon {
-	background-image: url(/img/icons/twitter.svg);
+	background-image: url(../img/icons/twitter.svg);
 }
 
 .instagram-icon {
-	background-image: url(/img/icons/instagram.svg);
+	background-image: url(../img/icons/instagram.svg);
 }
 
 /* ========================= Footer end ========================= */
